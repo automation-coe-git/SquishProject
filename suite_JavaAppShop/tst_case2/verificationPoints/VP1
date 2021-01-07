@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VerificationPoint type="ObjectProperties" version="4">
+<Description/>
+<Verification object="listsOfItemsList" property="itemcount" type="int" valueType="Value"><![CDATA[2]]>
+<base64EncodedValue>Mg==</base64EncodedValue>
+</Verification>
+</VerificationPoint>
